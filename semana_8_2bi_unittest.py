@@ -1,4 +1,5 @@
 # verifica o valor de entrada usando a bibliteca padrão "unittest "
+# unittest usado para debugar o codigo
 
 import unittest
 from semana_8_2bi_func import soma, mult
